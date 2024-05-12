@@ -108,7 +108,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
 	github.com/magefile/mage v1.15.0
-	github.com/openimsdk/protocol v0.0.65
+	github.com/openimsdk/protocol v0.0.66
 	github.com/redis/go-redis/v9 v9.5.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/stretchr/testify v1.9.0
