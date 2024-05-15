@@ -108,12 +108,12 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
 	github.com/magefile/mage v1.15.0
-	github.com/openimsdk/protocol v0.0.65
+	github.com/openimsdk/protocol v0.0.66
 	github.com/redis/go-redis/v9 v9.5.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/stretchr/testify v1.9.0
 	go.uber.org/zap v1.27.0
-	google.golang.org/grpc v1.63.2
+	google.golang.org/grpc v1.64.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.25.10
